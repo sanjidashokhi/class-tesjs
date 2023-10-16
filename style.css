@@ -1,0 +1,22 @@
+button{
+    padding: 15px 25px;
+    background: rgb(5, 11, 188);
+    border-radius: 50px;
+    border: none;
+    color: aliceblue;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    background: #a3039b;
+    margin-top: 10px;
+
+}
+.box_two{
+    height: 200px;
+    width: 200px;
+    background: #2bec00;
+    margin-top: 10px;
+
+}
